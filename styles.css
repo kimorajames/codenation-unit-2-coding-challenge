@@ -1,7 +1,17 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+  background:linear-gradient(#D8F0FA,#FAF2D8, #F3E2AB);
     text-align: center;
 }
 
 /* Apply CSS styles to three of your HTML elements to make the page visually appealing. */
+
+h1 {font-size:50px;
+  background: -webkit-linear-gradient(#5049ab,#383380);
+   background-clip: text;
+  -webkit-text-fill-color: transparent;
+   }
+
+.pfp {
+  border-radius: 300px;
+}
